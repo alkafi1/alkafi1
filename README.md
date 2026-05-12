@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Al Kafi Rupam 👋
 
-<!--
-**alkafi1/alkafi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Laravel Engineer focused on scalable SaaS, ERP systems, and API architecture.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend Laravel Developer with production experience
+* Building multi-tenant SaaS applications
+* Strong focus on REST APIs, RBAC, queues, Redis, and performance optimization
+* Experienced with Laravel, Next.js, React, MySQL, Redis, Nginx, Supervisor, and Ubuntu
+* Currently working on ERP and property management SaaS platforms
+
+## 🏗 Current Projects
+
+### Firewood LPG ERP
+
+Multi-tenant ERP platform for LPG businesses.
+
+Features:
+
+* Sales & Inventory
+* Accounting
+* Multi-warehouse management
+* Cylinder tracking
+* Role & permission management
+* Supplier payment flow
+* Queue & background jobs
+
+### Bariwala SaaS
+
+Property management SaaS platform.
+
+Features:
+
+* Multi-tenancy
+* Central admin system
+* Tenant isolation
+* Role-based permissions
+* REST APIs
+* Next.js frontend
+
+## ⚡ Tech Stack
+
+### Backend
+
+Laravel • PHP • REST API • Sanctum • Redis • MySQL • Queue System
+
+### Frontend
+
+React • Next.js • Tailwind CSS • Inertia.js
+
+### DevOps & Tools
+
+Ubuntu • Nginx • Apache • Supervisor • GitHub Actions • Docker
+
+## 📈 Engineering Interests
+
+* Scalable backend systems
+* API-first architecture
+* Multi-tenancy
+* Performance optimization
+* System design
+* Clean architecture
+
+## 📫 Connect
+
+* GitHub: https://github.com/alkafi1
+* LinkedIn: Add your LinkedIn here
