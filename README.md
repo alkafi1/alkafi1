@@ -12,7 +12,7 @@ Backend Laravel Engineer focused on scalable SaaS, ERP systems, and API architec
 
 ## 🏗 Current Projects
 
-### Firewood LPG ERP
+### Firewood LPG ERP - Office
 
 Multi-tenant ERP platform for LPG businesses.
 
@@ -26,7 +26,7 @@ Features:
 * Supplier payment flow
 * Queue & background jobs
 
-### Bariwala SaaS
+### Bariwala SaaS - My Own Dream Project
 
 Property management SaaS platform.
 
