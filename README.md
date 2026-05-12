@@ -1,68 +1,204 @@
-# Hi, I'm Al Kafi Rupam 👋
+<div align="center">
 
-Backend Laravel Engineer focused on scalable SaaS, ERP systems, and API architecture.
+# ⚡ Al Kafi Rupam
 
-## 🚀 About Me
+### Laravel Architect • Backend Engineer • SaaS & ERP Systems
 
-* Backend Laravel Developer with production experience
-* Building multi-tenant SaaS applications
-* Strong focus on REST APIs, RBAC, queues, Redis, and performance optimization
-* Experienced with Laravel, Next.js, React, MySQL, Redis, Nginx, Supervisor, and Ubuntu
-* Currently working on ERP and property management SaaS platforms
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Laravel+Engineer;Building+Scalable+SaaS+Platforms;Multi-Tenant+Architecture+Specialist;API-First+System+Designer;ERP+%26+Infrastructure+Focused" />
+</p>
 
-## 🏗 Current Projects
+<p align="center">
+  <a href="https://github.com/alkafi1">
+    <img src="https://img.shields.io/github/followers/alkafi1?label=Followers&style=for-the-badge&color=0f172a" />
+  </a>
 
-### Firewood LPG ERP - Office
+  <img src="https://img.shields.io/badge/Laravel-Architect-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-First-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MultiTenant-SaaS-purple?style=for-the-badge" />
+</p>
 
-Multi-tenant ERP platform for LPG businesses.
+</div>
 
-Features:
+---
 
-* Sales & Inventory
-* Accounting
-* Multi-warehouse management
-* Cylinder tracking
-* Role & permission management
-* Supplier payment flow
-* Queue & background jobs
+# 🚀 About Me
 
-### Bariwala SaaS - My Own Dream Project
+Backend-focused software engineer specializing in:
 
-Property management SaaS platform.
+* Scalable Laravel SaaS applications
+* Multi-tenant system architecture
+* ERP platform engineering
+* REST API design
+* Queue & background processing
+* RBAC & permission systems
+* Redis optimization
+* Linux server infrastructure
 
-Features:
+Currently building production-grade platforms involving:
 
-* Multi-tenancy
-* Central admin system
-* Tenant isolation
-* Role-based permissions
+* Multi-tenant ERP systems
+* Property management SaaS
+* Role-based access control systems
+* Supplier payment & accounting flows
+* Real-time systems with Laravel Reverb
+
+---
+
+# 🏗 Featured Engineering Areas
+
+<table>
+<tr>
+<td width="50%">
+
+## ⚙ Backend Engineering
+
+* Laravel
+* PHP
 * REST APIs
-* Next.js frontend
-
-## ⚡ Tech Stack
-
-### Backend
-
-Laravel • PHP • REST API • Sanctum • Redis • MySQL • Queue System
-
-### Frontend
-
-React • Next.js • Tailwind CSS • Inertia.js
-
-### DevOps & Tools
-
-Ubuntu • Nginx • Apache • Supervisor • GitHub Actions • Docker
-
-## 📈 Engineering Interests
-
-* Scalable backend systems
-* API-first architecture
+* Sanctum Authentication
+* Queue Systems
+* Redis
+* MySQL
 * Multi-tenancy
-* Performance optimization
-* System design
-* Clean architecture
 
-## 📫 Connect
+</td>
 
-* GitHub: https://github.com/alkafi1
-* LinkedIn: Add your LinkedIn here
+<td width="50%">
+
+## 🖥 Infrastructure
+
+* Ubuntu
+* Nginx
+* Apache
+* Supervisor
+* GitHub Actions
+* CI/CD
+* Linux Server Management
+* Performance Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Architecture Focus
+
+```text
+✔ Multi-Tenant SaaS Architecture
+✔ ERP System Design
+✔ Queue-Based Processing
+✔ RBAC & Permission Systems
+✔ API Security
+✔ Clean Backend Structure
+✔ Service-Oriented Design
+✔ Scalable Database Design
+✔ Event-Driven Workflows
+✔ Payment & Accounting Logic
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs" />
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
+
+## DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=ubuntu,nginx,docker,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alkafi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkafi1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alkafi1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏢 Current Projects
+
+## 🔹 Bariwala SaaS
+
+Multi-tenant property management SaaS platform.
+
+### Core Features
+
+* Tenant isolation
+* Central administration
+* RBAC permissions
+* REST API architecture
+* Next.js frontend integration
+* Authentication & authorization
+* Queue-based notifications
+
+---
+
+## 🔹 Firewood LPG ERP
+
+Enterprise ERP platform for LPG business management.
+
+### Modules
+
+* Sales
+* Inventory
+* Accounting
+* Warehouse Management
+* Cylinder Tracking
+* Supplier Payments
+* Reporting & Analytics
+
+---
+
+# 📈 Engineering Philosophy
+
+```text
+Build systems that scale.
+Write code that survives.
+Design APIs that developers enjoy using.
+Optimize for maintainability, not shortcuts.
+```
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/alkafi1">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Backend Engineering • SaaS Architecture • Laravel Ecosystem
+
+</div>
